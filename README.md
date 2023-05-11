@@ -4,6 +4,7 @@ This is a simple project that creates a hover effect on Spongebob's and Patrick'
 
 # Demo
 
+https://github.com/sujay1844/eyeball-hover/assets/68642484/059bc285-9d6b-4f4b-a4e0-a22e49e92ec7
 
 
 # Usage
