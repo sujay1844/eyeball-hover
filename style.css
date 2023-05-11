@@ -1,0 +1,25 @@
+.box {
+	display: grid;
+	place-items: center;
+}
+
+#spongebob-eye1 {
+	position: absolute;
+	top: 217px;
+	left: 515px;
+}
+#spongebob-eye2 {
+	position: absolute;
+	top: 217px;
+	left: 570px;
+}
+#patrick-eye1 {
+	position: absolute;
+	top: 166px;
+	left: 380px;
+}
+#patrick-eye2 {
+	position: absolute;
+	top: 166px;
+	left: 420px;
+}
